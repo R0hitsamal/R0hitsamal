@@ -1,4 +1,4 @@
-<h1>Hi👋, I am Rohit kumar samal</h1>
+<h3>Hi👋, I am Rohit kumar samal</h3>
 
 <!--
 **R0hitsamal/R0hitsamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
