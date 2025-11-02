@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Samal</h1>
-<h3 align="center">A passionate MERN Stack developer || DevOps Enthusiast</h3>
+<h3 align="center">A passionate MERN Stack Developer</> || DevOps Enthusiast</h3>
 <p align="center">
 <img height="300px" src="https://media.licdn.com/dms/image/v2/D4D12AQH705bThgiwFA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1724147896135?e=2147483647&v=beta&t=g4ZnqL7-SToLsgG92tmAr3xpXOJy02DLNzKk5Y6n4QU">
 </p>
@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Typescript, Next.js and DevOps**
 
-- 👨‍💻 All of my projects are available at <a href="https://rohitkumarsamal-portfolio.vercel.app/">rohitkumarsamal-portfolio.vercel.app</a> 
+- 👨‍💻 All of my projects are available at <a href="https://rohitkumarsamal-portfolio.vercel.app/">My Portfolio :)</a> 
 
 - 💬 Ask me about **React, Express, Node, MongoDB, Java, Python**
 
-- 📫 How to reach me **samalrohit2567@gmail.com**
+- 📫 Reach me **samalrohit2567@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
