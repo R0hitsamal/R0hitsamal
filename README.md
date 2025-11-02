@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next.js and DevOps**
 
-- 👨‍💻 All of my projects are available at <p><a href="https://github.com/R0hitsamal?tab=repositories">rohitkumarsamal-portfolio.vercel.app</a>  </p> 
+- 👨‍💻 All of my projects are available at <p><a href="https://rohitkumarsamal-portfolio.vercel.app/">rohitkumarsamal-portfolio.vercel.app</a>  </p> 
 
 - 💬 Ask me about **React, Express, Node, MongoDB, Java, Python**
 
