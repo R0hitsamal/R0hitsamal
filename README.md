@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Samal</h1>
 <h3 align="center">A passionate MERN Stack developer || DevOps Enthusiast</h3>
-
+<div style="display: flex; justify-content: center; flex-direction: column;">
 <img height="300px" src="https://media.licdn.com/dms/image/v2/D4D12AQH705bThgiwFA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1724147896135?e=2147483647&v=beta&t=g4ZnqL7-SToLsgG92tmAr3xpXOJy02DLNzKk5Y6n4QU"></img
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0hitsamal&label=Profile%20views&color=0e75b6&style=flat" alt="r0hitsamal" /> </p>
@@ -28,4 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0hitsamal&show_icons=true&locale=en&layout=compact" alt="r0hitsamal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r0hitsamal&show_icons=true&locale=en" alt="r0hitsamal" /></p>
-
+</div>
