@@ -4,8 +4,6 @@
 <img height="300px" src="https://media.licdn.com/dms/image/v2/D4D12AQH705bThgiwFA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1724147896135?e=2147483647&v=beta&t=g4ZnqL7-SToLsgG92tmAr3xpXOJy02DLNzKk5Y6n4QU">
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=r0hitsamal&label=Profile%20views&color=0e75b6&style=flat" alt="r0hitsamal" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r0hitsamal" alt="r0hitsamal" /></a> </p>
 
 - 🔭 I’m currently working on **a social media platform**
