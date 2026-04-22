@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://wallpaperaccess.com/full/8901672.jpg" alt="banner" style="width:100%; height:250px; object-fit:cover;" />
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQH705bThgiwFA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1724147896135?e=2147483647&v=beta&t=g4ZnqL7-SToLsgG92tmAr3xpXOJy02DLNzKk5Y6n4QU" alt="banner" style="width:100%; height:250px; object-fit:cover;" />
 
 <h1 align="center">Hi 👋, I'm Rohit Kumar Samal</h1>
 <h3 align="center">🚀 MERN Stack Developer || AWS || Cloud Enthusiast  </h3>
@@ -20,19 +20,19 @@
 - 👨‍💻 Portfolio:  
   👉 https://rohitkumarsamal.vercel.app  
 - 📄 Resume:  
-  👉 https://rohitkumarsamal.vercel.app
-- 🚀 Live Project:  
-  👉 YOUR_BEST_PROJECT_LINK_HERE  
+  👉 https://rohitkumarsamal.vercel.app/RohitKumarSamal-Resume.pdf
+- 🚀 Live Project: Video Streaming Platform 
+  👉 https://binge-streamming.vercel.app/  
 - 📫 Email: **samalrohit2567@gmail.com**
 
 ---
 
 ### 🚀 Featured Projects  
 
-- 🔥 **Social Media App** – MERN Stack (In Progress)  
-- 🛒 **E-Commerce Website UI** – React + Material UI  
-- 📊 **Host Monitoring System** – MERN + Python + Charts  
-- 🌐 More projects 👉 Portfolio link above  
+- 🔥 **Video Streaming Platform** – MERN Stack
+- 🛒 **E-Commerce Website** – MERN Stack  
+- 📊 **Disease Prediction & Drug Recommendation** – MERN + Python + Charts  
+- 🌐 More projects 👉 https://rohitkumarsamal.vercel.app   
 
 ---
 
@@ -89,13 +89,3 @@
 
 ---
 
-### 🏆 Achievements & Goals  
-- 🧠 Solving problems on LeetCode regularly  
-- 🚀 Building scalable full-stack apps  
-- ☁️ Learning DevOps & Cloud deeply  
-- 💼 Preparing for **Top Tech Internships**
-
----
-
-### ⚡ Fun Fact  
-💻 I can debug faster than I can explain 😄
