@@ -16,12 +16,11 @@
 ### 👨‍💻 About Me  
 - 🔭 Currently building **Social Media Platform (MERN)**  
 - 🌱 Learning **TypeScript, Next.js & DevOps (Docker, AWS)**  
-- 💡 Strong in **DSA + Full Stack Development**  
-- 🎯 Goal: Become a **Top Product-Based Company Engineer**  
+- 💡 Strong in **DSA + Full Stack Development**   
 - 👨‍💻 Portfolio:  
-  👉 https://rohitkumarsamal-portfolio.vercel.app  
+  👉 https://rohitkumarsamal.vercel.app  
 - 📄 Resume:  
-  👉 YOUR_RESUME_LINK_HERE  
+  👉 https://rohitkumarsamal.vercel.app
 - 🚀 Live Project:  
   👉 YOUR_BEST_PROJECT_LINK_HERE  
 - 📫 Email: **samalrohit2567@gmail.com**
