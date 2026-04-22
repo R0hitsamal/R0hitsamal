@@ -1,29 +1,102 @@
+<!-- Banner -->
+<img src="https://wallpaperaccess.com/full/8901672.jpg" alt="banner" style="width:100%; height:250px; object-fit:cover;" />
+
 <h1 align="center">Hi 👋, I'm Rohit Kumar Samal</h1>
-<h3 align="center">A passionate MERN Stack Developer</> || DevOps Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Developer || AWS || Cloud Enthusiast  </h3>
+
 <p align="center">
-<img height="300px" src="https://media.licdn.com/dms/image/v2/D4D12AQH705bThgiwFA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1724147896135?e=2147483647&v=beta&t=g4ZnqL7-SToLsgG92tmAr3xpXOJy02DLNzKk5Y6n4QU">
+  <img src="https://komarev.com/ghpvc/?username=r0hitsamal&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/r0hitsamal?label=Followers&style=social"/>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">MY GITHUB</a> </p>
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 I’m currently working on **a social media platform**
+---
 
-- 🌱 I’m currently learning **Typescript, Next.js and DevOps**
+### 👨‍💻 About Me  
+- 🔭 Currently building **Social Media Platform (MERN)**  
+- 🌱 Learning **TypeScript, Next.js & DevOps (Docker, AWS)**  
+- 💡 Strong in **DSA + Full Stack Development**  
+- 🎯 Goal: Become a **Top Product-Based Company Engineer**  
+- 👨‍💻 Portfolio:  
+  👉 https://rohitkumarsamal-portfolio.vercel.app  
+- 📄 Resume:  
+  👉 YOUR_RESUME_LINK_HERE  
+- 🚀 Live Project:  
+  👉 YOUR_BEST_PROJECT_LINK_HERE  
+- 📫 Email: **samalrohit2567@gmail.com**
 
-- 👨‍💻 All of my projects are available at <a href="https://rohitkumarsamal-portfolio.vercel.app/">My Portfolio :)</a> 
+---
 
-- 💬 Ask me about **React, Express, Node, MongoDB, Java, Python**
+### 🚀 Featured Projects  
 
-- 📫 Reach me **samalrohit2567@gmail.com**
+- 🔥 **Social Media App** – MERN Stack (In Progress)  
+- 🛒 **E-Commerce Website UI** – React + Material UI  
+- 📊 **Host Monitoring System** – MERN + Python + Charts  
+- 🌐 More projects 👉 Portfolio link above  
 
-<h3 align="center">Connect with me:</h3>
+---
+
+### 🌐 Connect With Me  
 <p align="center">
-<a href="https://linkedin.com/in/rohit-kumar-samal-548b14276?utm_source=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kumar samal" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rohit-kumar-samal-548b14276">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:samalrohit2567@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;" ><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=r0hitsamal&show_icons=true&locale=en&layout=compact" /></p>
+### 🛠️ Tech Stack  
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=r0hitsamal&show_icons=true&locale=en"  /></p>
+#### 🚀 Frontend  
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
+</p>
+
+#### ⚙️ Backend  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+#### 🗄️ Database  
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+#### ☁️ DevOps & Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux" />
+</p>
+
+#### 💻 Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,typescript" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r0hitsamal&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r0hitsamal&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hitsamal&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+### 🏆 Achievements & Goals  
+- 🧠 Solving problems on LeetCode regularly  
+- 🚀 Building scalable full-stack apps  
+- ☁️ Learning DevOps & Cloud deeply  
+- 💼 Preparing for **Top Tech Internships**
+
+---
+
+### ⚡ Fun Fact  
+💻 I can debug faster than I can explain 😄
