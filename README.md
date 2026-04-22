@@ -1,6 +1,10 @@
 <!-- Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQH705bThgiwFA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1724147896135?e=2147483647&v=beta&t=g4ZnqL7-SToLsgG92tmAr3xpXOJy02DLNzKk5Y6n4QU" align="center" alt="banner" style="width:60%; height:250px; object-fit:cover;" />
-
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQH705bThgiwFA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1724147896135?e=2147483647&v=beta&t=g4ZnqL7-SToLsgG92tmAr3xpXOJy02DLNzKk5Y6n4QU"
+       alt="banner"
+       width="60%"
+       style="border-radius:12px;" />
+</p>
 <h1 align="center">Hi 👋, I'm Rohit Kumar Samal</h1>
 <h3 align="center">🚀 MERN Stack Developer || AWS || Cloud Enthusiast  </h3>
 
