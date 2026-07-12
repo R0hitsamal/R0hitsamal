@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Samal</h1>
 <h3 align="center">A passionate MERN Stack Developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r0hitsamal" alt="r0hitsamal" /></a> </p>
-
 - 🔭 I’m currently working on [G2I- Global Genius Index -- E-Learning Platform](https://g2i.sequspace.com/)
 
 - 🌱 I’m currently learning **Next.js**
