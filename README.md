@@ -14,6 +14,7 @@
 - 📄 Know about my experiences [https://rohitkumarsamal.vercel.app/RohitKumarSamal-Resume.pdf](https://rohitkumarsamal.vercel.app/RohitKumarSamal-Resume.pdf)
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
