@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Samal</h1>
 <h3 align="center">A passionate MERN Stack Developer.</h3>
 
-
 - 🔭 I’m currently working on [G2I- Global Genius Index -- E-Learning Platform](https://g2i.sequspace.com/)
 
 - 🌱 I’m currently learning **Next.js**
@@ -16,10 +15,7 @@
 
 ### Blogs posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :-</h3>
 <p align="left">
 <a href="https://dev.to/lll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lll" height="30" width="40" /></a>
 <a href="https://twitter.com/mmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmm" height="30" width="40" /></a>
