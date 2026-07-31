@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Samal</h1>
-<h3 align="center">A passionate MERN Stack Developer.</h3>
+<h2 align="center">A passionate MERN Stack Developer.</h2>
 
 - 🔭 I’m currently working on [G2I- Global Genius Index -- E-Learning Platform](https://g2i.sequspace.com/)
 
