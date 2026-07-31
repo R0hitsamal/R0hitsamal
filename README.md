@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://rohitkumarsamal.vercel.app/RohitKumarSamal-Resume.pdf](https://rohitkumarsamal.vercel.app/RohitKumarSamal-Resume.pdf)
 
-### Blogs posts
+### Blogs Posts
 
 <h3 align="left">Connect with me :-</h3>
 <p align="left">
