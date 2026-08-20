@@ -39,7 +39,7 @@ fn main() {
 }
 ```
 
-- 🔒 Building the **Data Loss Prevention (DLP)** engine in **Rust** and backend services (**Node.js · Express · PostgreSQL**) for privacy-compliance modules — ROPA, DPIA, TPRA — at GoTrust
+- 🔒 Building the **Data Loss Prevention (DLP)** engine in **Rust** and backend services (**Node.js · Express · PostgreSQL**) for privacy-compliance modules — ROPA, DPIA, TPRA
 - 🌱 Going deeper into **systems-level engineering**, scalable architecture, and AWS
 - 👯 Open to collaborate on **real-world SaaS / full-stack** products
 - 💬 Ask me about **Rust · Node.js · Express · React · PostgreSQL · AWS · CI/CD**
