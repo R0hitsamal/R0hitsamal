@@ -1,34 +1,130 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar Samal</h1>
-<h2 align="center">A passionate MERN Stack Developer.</h2>
+<!-- ============ HERO / BANNER ============ -->
+<div align="center">
 
-- 🔭 I’m currently working on [G2I- Global Genius Index -- E-Learning Platform](https://g2i.sequspace.com/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Kumar+Samal;Software+Engineer+%40+SequSpace;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+AWS;I+build+secure%2C+scalable+backends" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Next.js**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://rohitkumarsamal.vercel.app/](https://rohitkumarsamal.vercel.app/)
+<a href="https://rohitkumarsamal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rohit-kumar-samal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:samalrohit2567@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-- 💬 Ask me about **React, Node, Express, MongoDB, MySQL, AWS, Java, Python**
+<br/>
 
-- 📫 How to reach me **samalrohit2567@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=R0hitsamal&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
 
-- 📄 Know about my experiences [https://rohitkumarsamal.vercel.app/RohitKumarSamal-Resume.pdf](https://rohitkumarsamal.vercel.app/RohitKumarSamal-Resume.pdf)
+</div>
 
-### Blogs Posts
+---
 
-<h3 align="left">Connect with me :-</h3>
-<p align="left">
-<a href="https://dev.to/lll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lll" height="30" width="40" /></a>
-<a href="https://twitter.com/mmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-kumar-samal-548b14276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-kumar-samal-548b14276/" height="30" width="40" /></a>
-<a href="https://medium.com/@rohiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohiy" height="30" width="40" /></a>
-<a href="/111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="111" height="30" width="40" /></a>
+## 🧑‍💻 About Me
+
+```rust
+struct Engineer {
+    name: &'static str,
+    role: &'static str,
+    company: &'static str,
+    focus: [&'static str; 3],
+    open_to: &'static str,
+}
+
+fn main() {
+    let me = Engineer {
+        name: "Rohit Kumar Samal",
+        role: "Software Engineer",
+        company: "SequSpace — data-privacy & compliance platform",
+        focus: ["Secure backends in Node", "Scalable REST APIs", "Cloud on AWS"],
+        open_to: "Full-stack roles & select freelance projects",
+    };
+}
+```
+
+- 🔒 Building the **Data Loss Prevention (DLP)** engine in **Rust** and backend services (**Node.js · Express · PostgreSQL**) for privacy-compliance modules — ROPA, DPIA, TPRA — at GoTrust
+- 🌱 Going deeper into **systems-level engineering**, scalable architecture, and AWS
+- 👯 Open to collaborate on **real-world SaaS / full-stack** products
+- 💬 Ask me about **Rust · Node.js · Express · React · PostgreSQL · AWS · CI/CD**
+- 🌐 Portfolio → **[rohitkumarsamal.dev](https://rohitkumarsamal.vercel.app)**
+
+---
+
+## 🚀 Live Projects
+
+| Project | Description | Link |
+|---|---|---|
+| 🏨 **Huts4U** | Hotel booking platform with listing APIs & mobile-first UI | [huts4u.in](https://huts4u.in) |
+| 🎤 **Voice World** | Real-time streaming, meeting & podcast platform (WebSocket) | [mydailylives.com](https://mydailylives.com) |
+| 🏥 **Doctor's EHR System** | Electronic health-record system for a medical practice | [drpuspaksamal.com](https://drpuspaksamal.com) |
+| 🩺 **OrthoSpineCare** | Clinic website & patient-facing platform | [orthospinecare.shop](https://orthospinecare.shop) |
+| 🎉 **Utsah** | College fest platform | [utsah.fun](https://utsah.fun) |
+| 🥤 **Mangala Enterprises** | Business website for a beverage company | [mangalaenterprises.in](https://mangalaenterprises.in) |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Backend & Databases**
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0hitsamal&show_icons=true&locale=en&layout=compact" alt="r0hitsamal" /></p>
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r0hitsamal&show_icons=true&locale=en" alt="r0hitsamal" /></p>
+**DevOps & Cloud**
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r0hitsamal&" alt="r0hitsamal" /></p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=R0hitsamal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=R0hitsama&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0hitsama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=R0hitsama&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+</div>
+
+---
+
+<div align="center">
+
+⭐️ From [Rohit Kumar Samal](https://rohitkumarsamal.vercel.app) — *building secure, scalable systems, one commit at a time.*
+
+</div>
