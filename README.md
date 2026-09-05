@@ -52,7 +52,6 @@ fn main() {
 | Project | Description | Link |
 |---|---|---|
 | 🏨 **Huts4U** | Hotel booking platform with listing APIs & mobile-first UI | [huts4u.in](https://huts4u.in) |
-| 🎤 **Voice World** | Real-time streaming, meeting & podcast platform (WebSocket) | [mydailylives.com](https://mydailylives.com) |
 | 🏥 **Doctor's EHR System** | Electronic health-record system for a medical practice | [drpuspaksamal.com](https://drpuspaksamal.com) |
 | 🩺 **OrthoSpineCare** | Clinic website & patient-facing platform | [orthospinecare.shop](https://orthospinecare.shop) |
 | 🎉 **Utsah** | College fest platform | [utsah.fun](https://utsah.fun) |
