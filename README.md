@@ -55,7 +55,6 @@ fn main() {
 | 🏥 **Doctor's EHR System** | Electronic health-record system for a medical practice | [drpuspaksamal.com](https://drpuspaksamal.com) |
 | 🩺 **OrthoSpineCare** | Clinic website & patient-facing platform | [orthospinecare.shop](https://orthospinecare.shop) |
 | 🎉 **Utsah** | College fest platform | [utsah.fun](https://utsah.fun) |
-| 🥤 **Mangala Enterprises** | Business website for a beverage company | [mangalaenterprises.in](https://mangalaenterprises.in) |
 
 ---
 
