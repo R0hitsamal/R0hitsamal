@@ -45,19 +45,6 @@ fn main() {
 - 💬 Ask me about **Rust · Node.js · Express · React · PostgreSQL · AWS · CI/CD**
 - 🌐 Portfolio → **[rohitkumarsamal.dev](https://rohitkumarsamal.vercel.app)**
 
----
-
-## 🚀 Live Projects
-
-| Project | Description | Link |
-|---|---|---|
-| 🏨 **Huts4U** | Hotel booking platform with listing APIs & mobile-first UI | [huts4u.in](https://huts4u.in) |
-| 🏥 **Doctor's EHR System** | Electronic health-record system for a medical practice | [drpuspaksamal.com](https://drpuspaksamal.com) |
-| 🩺 **OrthoSpineCare** | Clinic website & patient-facing platform | [orthospinecare.shop](https://orthospinecare.shop) |
-| 🎉 **Utsah** | College fest platform | [utsah.fun](https://utsah.fun) |
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
