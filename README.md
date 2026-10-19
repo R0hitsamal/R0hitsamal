@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://rohitkumarsamal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/rohit-kumar-samal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rohit-kumar-samal-548b14276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:samalrohit2567@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
